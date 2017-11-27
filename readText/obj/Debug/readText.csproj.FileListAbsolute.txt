@@ -1,0 +1,16 @@
+C:\Users\Administrator\source\repos\readText\readText\bin\Debug\readText.exe.config
+C:\Users\Administrator\source\repos\readText\readText\bin\Debug\readText.exe
+C:\Users\Administrator\source\repos\readText\readText\bin\Debug\readText.pdb
+C:\Users\Administrator\source\repos\readText\readText\bin\Debug\ExcelDataReader.dll
+C:\Users\Administrator\source\repos\readText\readText\bin\Debug\ExcelDataReader.xml
+C:\Users\Administrator\source\repos\readText\readText\obj\Debug\readText.Form1.resources
+C:\Users\Administrator\source\repos\readText\readText\obj\Debug\readText.Properties.Resources.resources
+C:\Users\Administrator\source\repos\readText\readText\obj\Debug\readText.csproj.GenerateResource.Cache
+C:\Users\Administrator\source\repos\readText\readText\obj\Debug\readText.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\source\repos\readText\readText\obj\Debug\readText.exe
+C:\Users\Administrator\source\repos\readText\readText\obj\Debug\readText.pdb
+C:\Users\Administrator\source\repos\readText\readText\obj\Debug\readText.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\source\repos\readText\readText\obj\Debug\Interop.Microsoft.Office.Interop.Access.Dao.dll
+C:\Users\Administrator\source\repos\readText\readText\obj\Debug\readText.csproj.ResolveComReference.cache
+C:\Users\Administrator\source\repos\readText\readText\bin\Debug\ExcelDataReader.DataSet.dll
+C:\Users\Administrator\source\repos\readText\readText\bin\Debug\ExcelDataReader.DataSet.xml
